@@ -1,6 +1,6 @@
 # Calorie Counter
 
-A simple and interactive web application to help users track their daily calorie budget by logging meals and exercise. The app calculates the remaining calories based on user inputs, displaying whether the user is in a calorie **Surplus** or **Deficit**.
+A simple and interactive web application to help users track their daily calorie budget by logging meals and exercise. The app calculates the remaining calories based on user inputs, displaying whether the user is in a calorie **Surplus** or **Deficit**.This is a hyperlink to this project https://calorie-counter-app-project.netlify.app/
 
 ![image](https://github.com/user-attachments/assets/0b746c7f-c0b0-471c-b5ff-c3dbfdfe31aa)
 
