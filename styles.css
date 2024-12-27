@@ -12,8 +12,8 @@
 body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-size: 18px;
-  background-color: var(--fcc-blue);
-  color: var(--light-grey);
+  background-color: #F5F5F5;
+  color: #212121;
 }
 
 h1 {
@@ -44,15 +44,15 @@ legend {
 button {
   cursor: pointer;
   text-decoration: none;
-  background-color: var(--light-yellow);
-  border: 2px solid var(--dark-yellow);
+  background-color: #2196F3;
+  border: #FF9800;
 }
 
 button,
 input,
 select {
   min-height: 24px;
-  color: var(--dark-blue);
+  color: #212121;
 }
 
 fieldset,
@@ -64,7 +64,7 @@ select {
 }
 
 .output {
-  border: 2px solid var(--light-grey);
+  border: #4CAF50;
   padding: 10px;
   text-align: center;
 }
@@ -79,9 +79,9 @@ select {
 }
 
 .surplus {
-  color: var(--light-pink);
+  color:#212121;
 }
 
 .deficit {
-  color: var(--light-green);
+  color: #212121;
 }
